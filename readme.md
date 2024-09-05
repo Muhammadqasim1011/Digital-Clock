@@ -15,14 +15,14 @@ A simple digital clock application built with HTML, CSS, and JavaScript. This pr
 
 ## Demo
 
-You can view a live demo of this project [here](#). *(Provide a link to the live demo if available)*
+You can view a live demo of this project [here](https://muhammadqasim1011.github.io/Digital-Clock/).
 
 ## Installation
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/digital-clock.git
+   git clone https://github.com/Muhammadqasim1011/Digital-Clock
    ```
 
 2. **Navigate to the project directory:**
