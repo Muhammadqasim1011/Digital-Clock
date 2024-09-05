@@ -1,4 +1,3 @@
-Here's a sample README file for your digital clock project. This README will help others understand what the project is about, how to set it up, and how to use it.
 
 ---
 
