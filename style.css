@@ -47,11 +47,19 @@ nav a:hover {
 .app{
     background: #eee;
     padding: 2rem;
-    width: 570px;
+    width: fit-content;
     margin: 7rem auto 0;
     text-align: center;
+    position: relative;
 }
 
+#date{
+    position: absolute;
+    top: 7px;
+    right: 2rem;
+    font-size: 1.7rem;
+    letter-spacing: 2px;
+}
 .app h1{
     font-size: 3.4rem;
     letter-spacing: 4px;
